@@ -1,0 +1,9 @@
+SUMMARY
+================================================================================
+
+This folder contains the data wrangling report (“capstone1_data_wrangling.doc”)
+for my first springboard data science capstone project “Exploring Netflix’s movie recommendation system”I also included in this folder the three jupiter notebooks (“data_processing.ipynb”; “data_processing_2.ipynb”; “movie_omdb_request.ipynb”) that I used to wrangle the data.
+
+The original files for the “Netflix Prize” dataset, can be downloaded from Kaggle, at the following link: https://www.kaggle.com/netflix-inc/netflix-prize-data/data
+
+
