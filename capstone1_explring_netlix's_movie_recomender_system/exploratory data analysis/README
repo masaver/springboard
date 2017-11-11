@@ -3,4 +3,4 @@ SUMMARY
 
 This folder contains the the data story report for my first springboard data science capstone project “Exploring Netflix’s movie recommendation system”The code that i used to analyze the wrangled data as well as the plots that came out of this analysis are contained in the notebook “EDA.ipynb”.
 
-
+The “capstone1_inferential statitics.docx” file contains a brief summary report of the statistical steps i used when analyzin the dataset for this project.
